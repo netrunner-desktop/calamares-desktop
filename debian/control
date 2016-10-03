@@ -1,12 +1,12 @@
-Source: calamares-core
+Source: calamares-desktop
 Section: devel
 Priority: optional
 Maintainer: Rohan Garg <rohan@kde.org>
 Build-Depends: debhelper (>= 9),
 Standards-Version: 3.9.6
-Homepage: https://github.com/netrunner-core/calamares-core
+Homepage: https://github.com/netrunner-core/calamares-desktop
 
-Package: calamares-core
+Package: calamares-desktop
 Architecture: amd64
 Depends: calamares
 Description: distribution-independent installer framework
