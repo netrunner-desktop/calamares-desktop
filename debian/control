@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: Rohan Garg <rohan@kde.org>
 Build-Depends: debhelper (>= 9),
 Standards-Version: 3.9.6
-Homepage: https://github.com/netrunner-core/calamares-desktop
+Homepage: https://github.com/netrunner-desktop/calamares-desktop
 
 Package: calamares-desktop
 Architecture: amd64
