@@ -1,0 +1,23 @@
+---
+componentName:  netrunner-desktop
+
+strings:
+    productName:         Netrunner Desktop
+    shortProductName:    Desktop
+    version:             19.0.0-dev
+    shortVersion:        19.0
+    versionedName:       Netrunner Desktop
+    shortVersionedName:  Netrunner Desktop 19.0
+    bootloaderEntryName: Netrunner Desktop
+
+images:
+    productLogo:         "netrunner-desktop-logo.png"
+    productIcon:         "netrunner-desktop-icon.png"
+    productWelcome:      "welcome.png"
+
+slideshow:               "show.qml"
+
+style:
+   sidebarBackground:    "#0C0C0C"
+   sidebarText:          "#5A5A5A"
+   sidebarTextSelect:    "#FFFFFF"
