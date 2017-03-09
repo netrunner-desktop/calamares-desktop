@@ -27,7 +27,7 @@ from string import Template
 
 def run():
     dmi = str(check_target_env_output(['dmidecode']))
-    if 'Manufacturer: innotek GmBH' in dmi:
+    if 'Manufacturer: innotek GmbH' in dmi:
         return None
 
     libcalamares.utils.debug("REMOVING VBOX GUEST SHITE")
