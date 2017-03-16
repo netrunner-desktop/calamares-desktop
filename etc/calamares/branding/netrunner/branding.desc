@@ -1,14 +1,14 @@
 ---
-componentName:  netrunner-desktop
+componentName:  netrunner
 
 strings:
-    productName:         Netrunner Desktop
-    shortProductName:    Desktop
-    version:             17.01.0.0-dev
-    shortVersion:        17.01.0
-    versionedName:       Netrunner Desktop
-    shortVersionedName:  Netrunner Desktop 17.01.0
-    bootloaderEntryName: Netrunner Desktop
+    productName:         Netrunner 
+    shortProductName:    
+    version:             17.03.0.0-dev
+    shortVersion:        17.03.0
+    versionedName:       Netrunner 
+    shortVersionedName:  Netrunner  17.03.0
+    bootloaderEntryName: Netrunner 
 
 images:
     productLogo:         "netrunner-desktop-logo.png"
