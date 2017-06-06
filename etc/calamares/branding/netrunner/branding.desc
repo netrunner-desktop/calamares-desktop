@@ -4,10 +4,10 @@ componentName:  netrunner
 strings:
     productName:         Netrunner 
     shortProductName:    
-    version:             17.03.0.0-dev
-    shortVersion:        17.03.0
-    versionedName:       Netrunner 
-    shortVersionedName:  Netrunner  17.03.0
+    version:             17.06.0.0-dev
+    shortVersion:        17.06.0
+    versionedName:       Netrunner
+    shortVersionedName:  Netrunner 17.06.0
     bootloaderEntryName: Netrunner 
 
 images:
