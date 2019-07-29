@@ -3,13 +3,13 @@ componentName:  netrunner
 windowExpanding: noexpand
 
 strings:
-    productName:         Netrunner 
-    shortProductName:    
-    version:             19.06.0.0-dev
-    shortVersion:        19.06.0
+    productName:         Netrunner
+    shortProductName:
+    version:             19.08.0.0-dev
+    shortVersion:        19.08.0
     versionedName:       Netrunner
-    shortVersionedName:  Netrunner 19.06.0
-    bootloaderEntryName: Netrunner 
+    shortVersionedName:  Netrunner 19.08.0
+    bootloaderEntryName: Netrunner
 
 images:
     productLogo:         "netrunner-desktop-logo.png"
