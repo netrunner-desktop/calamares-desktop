@@ -3,12 +3,12 @@ componentName:  netrunner
 windowExpanding: noexpand
 
 strings:
-    productName:         Netrunner
-    shortProductName:
-    version:             19.08.0.0-dev
-    shortVersion:        19.08.0
-    versionedName:       Netrunner
-    shortVersionedName:  Netrunner 19.08.0
+    productName:         Netrunner Desktop
+    shortProductName:    Netrunner
+    version:             19.08.0
+    shortVersion:        19.08
+    versionedName:       Netrunner Desktop 19.08.0 "Indigo"
+    shortVersionedName:  Netrunner 19.08
     bootloaderEntryName: Netrunner
 
 images:
