@@ -5,10 +5,10 @@ windowExpanding: noexpand
 strings:
     productName:         Netrunner Desktop
     shortProductName:    Netrunner
-    version:             19.08.0
-    shortVersion:        19.08
-    versionedName:       Netrunner Desktop 19.08.0 "Indigo"
-    shortVersionedName:  Netrunner 19.08
+    version:             20.01.0
+    shortVersion:        20.01
+    versionedName:       Netrunner Desktop 20.01.0 "tbd"
+    shortVersionedName:  Netrunner 20.01
     bootloaderEntryName: Netrunner
 
 images:
