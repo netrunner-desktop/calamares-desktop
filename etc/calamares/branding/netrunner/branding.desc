@@ -7,7 +7,7 @@ strings:
     shortProductName:    Netrunner
     version:             20.01.0
     shortVersion:        20.01
-    versionedName:       Netrunner Desktop 20.01.0 "tbd"
+    versionedName:       Netrunner Desktop 20.01.0 "Twenty"
     shortVersionedName:  Netrunner 20.01
     bootloaderEntryName: Netrunner
 
