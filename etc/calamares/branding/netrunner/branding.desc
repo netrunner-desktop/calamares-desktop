@@ -1,6 +1,7 @@
 ---
 componentName:  netrunner
 windowExpanding: noexpand
+slideshowAPI: 1
 
 strings:
     productName:         Netrunner Desktop
