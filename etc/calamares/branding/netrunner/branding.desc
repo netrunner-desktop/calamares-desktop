@@ -6,10 +6,10 @@ slideshowAPI: 1
 strings:
     productName:         Netrunner Desktop
     shortProductName:    Netrunner
-    version:             21.01.0
-    shortVersion:        21.01
-    versionedName:       Netrunner Desktop 21.01.0 "XOXO"
-    shortVersionedName:  Netrunner 21.01
+    version:             22
+    shortVersion:        22
+    versionedName:       Netrunner Desktop 22 "XOXO"
+    shortVersionedName:  Netrunner 22
     bootloaderEntryName: Netrunner
 
 images:
