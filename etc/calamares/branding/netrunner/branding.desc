@@ -2,6 +2,9 @@
 componentName:  netrunner
 windowExpanding: noexpand
 slideshowAPI: 1
+windowPlacement: free
+sidebar: widget,left
+navigation: widget,bottom
 
 strings:
     productName:         Netrunner Desktop
